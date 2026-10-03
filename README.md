@@ -24,6 +24,6 @@ An automated Java utility that authenticates into online web portals, captures p
 
 ## AI Collaboration & Acknowledgments
 
-This project was built through an iterative development process in collaboration with **Google Gemini**. Gemini provided technical support for troubleshooting DOM shadow root encapsulation, refining keyboard navigation handling, and designing the RGB pixel-boundary detection algorithm to isolate shifting page alignments cleanly.
+This project was built through an iterative development process in collaboration with **Google Gemini**. Gemini provided technical support for troubleshooting DOM shadow root encapsulation and designing the RGB pixel-boundary detection algorithm to isolate shifting page alignments cleanly.
 
 ---
